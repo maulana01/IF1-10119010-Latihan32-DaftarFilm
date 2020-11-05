@@ -7,7 +7,12 @@ package if1.pkg10119010.latihan32.daftarfilm;
 
 /**
  *
- * @author MIM
+ * @author Maulana Imam Malik
+ * NAMA     : Maulana Imam Malik
+ * KELAS    : IF1
+ * NIM      : 10119010
+ * Deskripsi Program : Program ini berisi program untuk menampilkan daftar film
+ *                     dengan konsep OOP
  */
 public class Film {
     public String filmName;

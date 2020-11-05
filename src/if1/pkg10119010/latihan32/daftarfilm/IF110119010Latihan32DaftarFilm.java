@@ -12,6 +12,7 @@ package if1.pkg10119010.latihan32.daftarfilm;
  * KELAS    : IF1
  * NIM      : 10119010
  * Deskripsi Program : Program ini berisi program untuk menampilkan daftar film
+ *                     dengan konsep OOP
  */
 public class IF110119010Latihan32DaftarFilm {
 
